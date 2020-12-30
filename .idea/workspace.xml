@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0928f7f-c408-415a-bd0a-cb9db1625f0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AlgorithmsAndDataStructures/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmsAndDataStructures/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmsAndDataStructures/src/FractionalKnapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmsAndDataStructures/src/GreedyAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmsAndDataStructures/src/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AlgorithmsAndDataStructures/src/Memozation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aufgabe1/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBase/Array/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEETest/src/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEETest/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uebung7/src/AddElementsWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uebung7/src/EventsWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uebung7/src/GuiMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe1/src/de/htwberlin/fiw/profiler" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgabe1/src/de/htwberlin/fiw/profiler" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aufgabe2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgabe2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IKT/Uebung_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IKT/Uebung_1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IKT/Uebung_1/src/ProfiledClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IKT/Uebung_1/src/ProfiledClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IKT/Uebung_2/src/DoppListe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IKT/Uebung_2/src/DoppListe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IKT/Uebung_2/src/Knoten.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IKT/Uebung_2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IKT/Uebung_2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springSecurity/src/main/java/de/berlin/demo/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springSecurity/src/main/java/de/berlin/demo/SecurityConfiguration.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rasa_familienlotse" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0928f7f-c408-415a-bd0a-cb9db1625f0e" name="Default Changelist" comment="" />
+      <created>1609336905392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609336905392</updated>
+      <workItem from="1609336917652" duration="3844000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
