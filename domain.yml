@@ -7,17 +7,18 @@ intents:
   - thanks
   - number_of_subscriber
   - what_name
-templates:
+
+responses:
   utter_greet:
-    - text: Hallo! wie geht's dir?
+    - text: "Hallo! wie geht's dir?"
   utter_anything_else:
-    - text: Gibt es noch etwas, bei dem ich Ihnen helfen kann?
+    - text: "Gibt es noch etwas, bei dem ich Ihnen helfen kann?"
   utter_goodbye:
-    - text: Ok, dann bis zum nächsten Mal!
+    - text: "Ok, dann bis zum nächsten Mal!"
   utter_iamabot:
-    - text: Ich bin ein ChatBot.
+    - text: "Ich bin ein ChatBot."
   utter_subscriber:
-    - text: Ihre Abonnentenzahl ist {count}.
+    - text: "Ihre Abonnentenzahl ist {count}."
   utter_name:
     - text: "Ich heiße ITZBund."
 actions:
