@@ -1,34 +1,30 @@
-version: "2.0"
-
 intents:
   - greet
   - goodbye
   - affirm
   - deny
-  - mood_great
-  - mood_unhappy
   - bot_challenge
-
-responses:
+  - thanks
+  - number_of_subscriber
+  - what_name
+templates:
   utter_greet:
-  - text: "Hey! How are you?"
-
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_did_that_help:
-  - text: "Did that help you?"
-
-  utter_happy:
-  - text: "Great, carry on!"
-
+    - text: Hallo! wie geht's dir?
+  utter_anything_else:
+    - text: Gibt es noch etwas, bei dem ich Ihnen helfen kann?
   utter_goodbye:
-  - text: "Bye"
-
+    - text: Ok, dann bis zum nächsten Mal!
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
-
-session_config:
-  session_expiration_time: 60
-  carry_over_slots_to_new_session: true
+    - text: Ich bin ein ChatBot.
+  utter_subscriber:
+    - text: Ihre Abonnentenzahl ist {count}.
+  utter_name:
+    - text: "Ich heiße ITZBund."
+actions:
+  - utter_greet
+  - utter_iamabot
+  - utter_goodbye
+  - utter_anything_else
+  - action_subscriber
+  - utter_subscriber
+  - utter_name
